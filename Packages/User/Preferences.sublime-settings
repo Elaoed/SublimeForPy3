@@ -1,0 +1,36 @@
+{
+	"auto_complete": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night-Italics (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".gh",
+		".CVS",
+		"._build",
+		".site",
+		".build",
+		".dist",
+		".venv",
+		".__pychache__"
+	],
+	"font-size": 13.0,
+	"font_size": 12,
+	"hightlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"RestructuredText",
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"show_definitions": true,
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

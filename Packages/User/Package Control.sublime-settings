@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoFileName",
+		"Color Highlighter",
+		"Emmet",
+		"Emoji",
+		"FindKeyConflicts",
+		"GitGutter",
+		"GitStatusBar",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Jinja2",
+		"jQuery",
+		"JSHint",
+		"Material Theme",
+		"Package Control",
+		"ProjectManager",
+		"requirementstxt",
+		"RestructuredText Improved",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Tomorrow Night Italics Color Scheme",
+		"View In Browser"
+	]
+}
