@@ -1,4 +1,5 @@
 {
     // Executable to run to lint code.
-    "jshint_bin": "jshint"
+    "jshint_bin": "jshint",
+    "esversion": 6
 }

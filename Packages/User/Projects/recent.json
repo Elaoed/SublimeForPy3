@@ -1,4 +1,16 @@
 [
 	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/new_vendor_tracking.sublime-project",
-	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/vendor_tracking.sublime-project"
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/vendor_tracking.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/product_center.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/class.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/O18.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/delay_center.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/return_center.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/indexer.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/datasyncer.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/return_center_backend.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/sqlaudit.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/vivo27th.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/club-api.sublime-project",
+	"~/Library/Application Support/Sublime Text 3/Packages/User/Projects/loan.sublime-project"
 ]

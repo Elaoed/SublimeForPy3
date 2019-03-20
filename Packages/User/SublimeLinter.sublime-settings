@@ -1,6 +1,6 @@
 // SublimeLinter Settings - User
 {
-        "debug": true,
+        "debug": false,
         "delay": 0.25,
         // "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme": "Default",
@@ -13,7 +13,7 @@
                 "excludes": [],
                 "ignore": "E302,E402",
                 "max-complexity": -1,
-                "max-line-length": 110,
+                "max-line-length": 120,
                 "select": ""
             },
             "pyflakes": {
@@ -23,16 +23,17 @@
                 "excludes": []
             },
             "mypy": {
-                "disable": false,
+                "disable": true,
                 "python": "/usr/local/python3.6/bin/python3",
                 "args": [],
                 "excludes": [],
                 "cache-dir": "/tmp/",
-                "follow-imports": "skip"
+                "follow-imports": "silent"
             },
             "jshint": {
                 "disable": false,
-                "args": [],
+                "args": ["W104", "W119"],
+                "ignore": "E302,E402",
                 "excludes": ["*.html"]
             },
         },

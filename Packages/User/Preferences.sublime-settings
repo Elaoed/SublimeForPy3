@@ -13,7 +13,12 @@
 		".build",
 		".dist",
 		".venv",
-		".__pychache__"
+		".__pycache__",
+		"__pycache__",
+		"Pipfile",
+		"Pipfile.lock",
+		"venv",
+		"*.swp"
 	],
 	"font-size": 13.0,
 	"font_size": 12,
@@ -21,8 +26,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"RestructuredText",
-		"Vintage"
+		"RestructuredText"
 	],
 	"rulers":
 	[
